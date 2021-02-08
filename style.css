@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    margin-top: 100px;
+    list-style: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(119, 173, 169);
+}
+
+li {
+    list-style: none;
+}
+
+ol {
+    padding: 0;
+}
+
+#startBtn {
+    width: 200px;
+    height: 40px;
+    font-weight: 800;
+    color: coral;
+    outline: cornflowerblue solid 4px;
+}
+
+button {
+    justify-content: space-between;
+}
+
