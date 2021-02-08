@@ -14,7 +14,7 @@ while a timer counts down the time you have left and counts your correct/incorre
 
 💻 HTML generated:
 ===================
-[Live Application through GitHub](https://am-white.github.io/Quiz-of-Animals/)
+[Live Application through GitHub](https://am-white.github.io/Random-Animal-Quiz/)
 
 
 ## User Story
